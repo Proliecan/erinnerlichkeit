@@ -862,11 +862,6 @@
     (uuid fed8a8fe-789d-49ae-b2bf-15d7964f9e84)
   )
 
-  (label "GND" (at 21.59 138.43 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 11664ef8-e3e8-419f-97d6-59cf7ac933ef)
-  )
-
   (global_label "A0 -> D0... !" (shape input) (at 138.43 153.67 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c9f28e4b-48e3-43db-aad0-82d8ccdd44ae)
